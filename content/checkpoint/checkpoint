@@ -1,0 +1,6 @@
+model_checkpoint_path: "train-252800"
+all_model_checkpoint_paths: "train-242688"
+all_model_checkpoint_paths: "train-245216"
+all_model_checkpoint_paths: "train-247744"
+all_model_checkpoint_paths: "train-250272"
+all_model_checkpoint_paths: "train-252800"
